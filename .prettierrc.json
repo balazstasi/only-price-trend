@@ -1,0 +1,14 @@
+{
+  "arrowParens": "avoid",
+  "singleQuote": true,
+  "printWidth": 100,
+  "endOfLine": "lf",
+  "bracketSameLine": true,
+  "prettier/prettier": [
+    "error",
+    {},
+    {
+      "usePrettierrc": false
+    }
+  ]
+}
